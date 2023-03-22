@@ -22,6 +22,8 @@
 
 
 ### 电路部分
+立创开源
+[https://oshwhub.com/xvipservice/shui-mo-ji_copy](https://oshwhub.com/xvipservice/shui-mo-ji_copy)
 ![](images/%E5%8E%9F%E7%90%86%E5%9B%BE.png)
 ![](images/%E7%94%B5%E8%B7%AF.png)
 其他资料稍后完善。。。

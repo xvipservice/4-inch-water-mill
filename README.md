@@ -1,6 +1,7 @@
 # 4寸水磨机
 ### 链接地址
 <!-- ***[🚩<font color="red">个人主页</font>](http://diy.flywt.cn)***   -->
+[🍎<font color="green">GitHub</font>](https://github.com/xvipservice/4-inch-water-mill)  
 [🍏<font color="green">立创开源硬件平台</font>](https://oshwhub.com/xvipservice/shui-mo-ji_copy)
 
 ### 介绍

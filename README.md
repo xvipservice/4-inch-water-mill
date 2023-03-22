@@ -6,6 +6,13 @@
 ![](images/1.jpg)
 
 ![](images/4.jpg)
+
+### 视频演示
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="images/video.mp4" type="video/mp4">
+</videos>
+
+### 打磨效果
 ![](images/%E6%89%93%E7%A3%A8%E6%95%88%E6%9E%9C.png)
 
 

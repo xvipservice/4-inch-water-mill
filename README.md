@@ -1,4 +1,7 @@
 # 4寸水磨机
+### 链接地址
+立创开源
+[https://oshwhub.com/xvipservice/shui-mo-ji_copy](https://oshwhub.com/xvipservice/shui-mo-ji_copy)
 
 ### 介绍
 一款可以滴水打磨玉石，雕刻刀的水磨机。一般干磨的机器会有很大的灰尘，加入水磨一个可以进行水冷，二来可以将灰尘带入水中，可以进行有效的保持桌面的干净。机器支持4寸金刚石磨片，还有其他角磨机配件。平时打磨 石头，木头，3d打印件，很实用。  
@@ -22,8 +25,6 @@
 
 
 ### 电路部分
-立创开源
-[https://oshwhub.com/xvipservice/shui-mo-ji_copy](https://oshwhub.com/xvipservice/shui-mo-ji_copy)
 ![](images/%E5%8E%9F%E7%90%86%E5%9B%BE.png)
 ![](images/%E7%94%B5%E8%B7%AF.png)
 其他资料稍后完善。。。
